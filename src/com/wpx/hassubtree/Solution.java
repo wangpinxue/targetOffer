@@ -1,7 +1,5 @@
 package com.wpx.hassubtree;
 
-import com.wpx.TreeNode;
-
 /*
 输入两棵二叉树A，B，判断B是不是A的子结构。（ps：我们约定空树不是任意一个树的子结构）
  */
@@ -42,7 +40,7 @@ public class Solution {
 }
 
     /*  Main()
-            Solution s = new Solution();
+        Solution s = new Solution();
         TreeNode root1 = TreeNode.buildTree(8);
         TreeNode root2 = TreeNode.buildTree(2);
         boolean result = s.HasSubtree(root1, root2);

@@ -1,4 +1,4 @@
-package com.wpx;
+package com.wpx.hassubtree;
 
 public class TreeNode {
     int val = 0;

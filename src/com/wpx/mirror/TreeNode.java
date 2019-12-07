@@ -22,4 +22,11 @@ public class TreeNode {
         return root;
     }
 
+    public static void printTree(TreeNode root){
+        if(root!=null){
+            System.out.print(" " + root.val);
+            printTree(root.left);
+            printTree(root.right);
+        }
+    }
 }
