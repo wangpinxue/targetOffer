@@ -24,8 +24,8 @@ public class TreeNode {
 
     public static void printTree(TreeNode root){
         if(root!=null){
-            System.out.print(" " + root.val);
             printTree(root.left);
+            System.out.print(" " + root.val);
             printTree(root.right);
         }
     }
