@@ -32,3 +32,12 @@ public class Solution {
         return print;
     }
 }
+
+/*
+main()
+        Solution s = new Solution();
+        TreeNode root = TreeNode.buildTree(8);
+        TreeNode.printTree(root);
+        ArrayList<Integer> arr = s.PrintFromTopToBottom(root);
+        System.out.println(arr);
+ */

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d183fb-9f8a-41b8-b9b9-0f51a992446c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wpx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
