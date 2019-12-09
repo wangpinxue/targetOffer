@@ -12,19 +12,23 @@ public class Solution {
     private int size;
     ArrayList<Integer> arr = new ArrayList<Integer>();
     Stack<Integer> minStack = new Stack<Integer>();
+
     public void push(int node) {
         arr.add(node);
         //判断加入的node是否是最小的
-        min = minStack.peek();
-        if(node<min){
+        if (!minStack.isEmpty()) {
+            min = minStack.peek();
+            if (node < min)
+                minStack.push(node);
+            else
+                minStack.push(min);
+        } else {
             minStack.push(node);
-        }else{
-            minStack.push(min);
         }
     }
 
     public void pop() {
-        if(!minStack.isEmpty()){
+        if (!minStack.isEmpty()) {
             min = minStack.peek();
             minStack.pop();
             arr.remove(arr.size() - 1);
@@ -36,6 +40,7 @@ public class Solution {
     }
 
     public int min() {
+        min = minStack.peek();
         return min;
     }
 }
