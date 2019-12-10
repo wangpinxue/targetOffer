@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d183fb-9f8a-41b8-b9b9-0f51a992446c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wpx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,38 +84,38 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1575531585992" />
-    <state width="1803" height="295" key="GridCell.Tab.0.bottom" timestamp="1575880305915">
+    <state width="1803" height="295" key="GridCell.Tab.0.bottom" timestamp="1575958445113">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575880305915" />
-    <state width="1803" height="295" key="GridCell.Tab.0.center" timestamp="1575880305915">
+    <state width="1803" height="295" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445113" />
+    <state width="1803" height="295" key="GridCell.Tab.0.center" timestamp="1575958445113">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575880305915" />
-    <state width="1803" height="295" key="GridCell.Tab.0.left" timestamp="1575880305914">
+    <state width="1803" height="295" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445113" />
+    <state width="1803" height="295" key="GridCell.Tab.0.left" timestamp="1575958445112">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575880305914" />
-    <state width="1803" height="295" key="GridCell.Tab.0.right" timestamp="1575880305915">
+    <state width="1803" height="295" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445112" />
+    <state width="1803" height="295" key="GridCell.Tab.0.right" timestamp="1575958445113">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575880305915" />
-    <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1575857064427">
+    <state width="1803" height="295" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445113" />
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1575958331338">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575857064427" />
-    <state width="1803" height="363" key="GridCell.Tab.1.center" timestamp="1575857064427">
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575958331338" />
+    <state width="1803" height="363" key="GridCell.Tab.1.center" timestamp="1575958331337">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575857064427" />
-    <state width="1803" height="363" key="GridCell.Tab.1.left" timestamp="1575857064427">
+    <state width="1803" height="363" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575958331337" />
+    <state width="1803" height="363" key="GridCell.Tab.1.left" timestamp="1575958331337">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575857064427" />
-    <state width="1803" height="363" key="GridCell.Tab.1.right" timestamp="1575857064427">
+    <state width="1803" height="363" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575958331337" />
+    <state width="1803" height="363" key="GridCell.Tab.1.right" timestamp="1575958331337">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575857064427" />
+    <state width="1803" height="363" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575958331337" />
     <state x="603" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1575856588347">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -125,5 +124,16 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="656" y="246" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1575543479290" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
