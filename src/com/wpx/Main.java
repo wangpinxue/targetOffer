@@ -1,13 +1,14 @@
 package com.wpx;
 
 
-import com.wpx.verifysquenceofBST.Solution;
+import com.wpx.findpathbytarget.Solution;
+import com.wpx.findpathbytarget.TreeNode;
+
+import java.util.ArrayList;
 
 public class Main {
 
     public static void main(String[] args) {
-        int[] sequence = {2,1};
-        Solution s = new Solution();
-        System.out.println(s.VerifySquenceOfBST(sequence));
+
     }
 }

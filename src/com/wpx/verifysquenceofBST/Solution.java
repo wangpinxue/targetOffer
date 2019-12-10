@@ -30,3 +30,9 @@ public class Solution {
         return Verify(sequence, left,j) && Verify(sequence,j+1,right-1);
     }
 }
+/*
+main()
+        int[] sequence = {2,1};
+        Solution s = new Solution();
+        System.out.println(s.VerifySquenceOfBST(sequence));
+ */

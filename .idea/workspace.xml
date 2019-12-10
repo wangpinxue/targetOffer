@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d183fb-9f8a-41b8-b9b9-0f51a992446c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/wpx/findpathbytarget/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wpx/findpathbytarget/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wpx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java" afterDir="false" />
@@ -33,6 +35,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wpx.findpathbytarget" />
       <recent name="com.wpx.printfromtoptobtm" />
       <recent name="com.wpx.mirror" />
     </key>
@@ -84,22 +87,26 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1575531585992" />
-    <state width="1803" height="295" key="GridCell.Tab.0.bottom" timestamp="1575958445113">
+    <state x="557" y="126" key="CommitChangelistDialog2" timestamp="1575963553201">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445113" />
-    <state width="1803" height="295" key="GridCell.Tab.0.center" timestamp="1575958445113">
+    <state x="557" y="126" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1575963553201" />
+    <state width="1803" height="295" key="GridCell.Tab.0.bottom" timestamp="1575963517730">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445113" />
-    <state width="1803" height="295" key="GridCell.Tab.0.left" timestamp="1575958445112">
+    <state width="1803" height="295" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575963517730" />
+    <state width="1803" height="295" key="GridCell.Tab.0.center" timestamp="1575963517729">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445112" />
-    <state width="1803" height="295" key="GridCell.Tab.0.right" timestamp="1575958445113">
+    <state width="1803" height="295" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575963517729" />
+    <state width="1803" height="295" key="GridCell.Tab.0.left" timestamp="1575963517729">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="295" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575958445113" />
+    <state width="1803" height="295" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575963517729" />
+    <state width="1803" height="295" key="GridCell.Tab.0.right" timestamp="1575963517729">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="295" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575963517729" />
     <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1575958331338">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -124,16 +131,5 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="656" y="246" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1575543479290" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
