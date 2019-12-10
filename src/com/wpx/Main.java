@@ -1,8 +1,8 @@
 package com.wpx;
 
 
-import com.wpx.findpathbytarget.Solution;
-import com.wpx.findpathbytarget.TreeNode;
+import com.wpx.clonecomplivatednodelist.RandomListNode;
+import com.wpx.clonecomplivatednodelist.Solution;
 
 import java.util.ArrayList;
 
