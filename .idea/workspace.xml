@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d183fb-9f8a-41b8-b9b9-0f51a992446c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/wpx/permutation/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wpx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/convertTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/convertTree/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,56 +100,75 @@
       <option name="project" value="LOCAL" />
       <updated>1575986751011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完成 将二叉搜索树转换成双链表">
+      <created>1576046323955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576046323955</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完成 将二叉搜索树转换成双链表">
+      <created>1576046335563</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576046335563</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成 根据指定的target，在二叉树上寻找和为target的路径" />
     <MESSAGE value="完成 复杂链表的复制功能，关键在于合并了并分开两个链表" />
     <MESSAGE value="开始写 将二叉搜索树转换成双链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="开始写 将二叉搜索树转换成双链表" />
+    <MESSAGE value="完成 将二叉搜索树转换成双链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成 将二叉搜索树转换成双链表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1575531585992">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1575531585992" />
-    <state x="443" y="36" key="CommitChangelistDialog2" timestamp="1576046323848">
+    <state x="443" y="36" key="CommitChangelistDialog2" timestamp="1576046335481">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="443" y="36" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1576046323848" />
-    <state width="1803" height="363" key="GridCell.Tab.0.bottom" timestamp="1575983657288">
+    <state x="443" y="36" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1576046335481" />
+    <state width="1803" height="380" key="GridCell.Tab.0.bottom" timestamp="1576063742737">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657288" />
-    <state width="1803" height="363" key="GridCell.Tab.0.center" timestamp="1575983657288">
+    <state width="1803" height="380" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576063742737" />
+    <state width="1803" height="380" key="GridCell.Tab.0.center" timestamp="1576063742736">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657288" />
-    <state width="1803" height="363" key="GridCell.Tab.0.left" timestamp="1575983657287">
+    <state width="1803" height="380" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576063742736" />
+    <state width="1803" height="380" key="GridCell.Tab.0.left" timestamp="1576063742736">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657287" />
-    <state width="1803" height="363" key="GridCell.Tab.0.right" timestamp="1575983657288">
+    <state width="1803" height="380" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576063742736" />
+    <state width="1803" height="380" key="GridCell.Tab.0.right" timestamp="1576063742736">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657288" />
-    <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1575983657351">
+    <state width="1803" height="380" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576063742736" />
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1576063424966">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657351" />
-    <state width="1803" height="363" key="GridCell.Tab.1.center" timestamp="1575983657340">
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576063424966" />
+    <state width="1803" height="363" key="GridCell.Tab.1.center" timestamp="1576063424965">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657340" />
-    <state width="1803" height="363" key="GridCell.Tab.1.left" timestamp="1575983657339">
+    <state width="1803" height="363" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576063424965" />
+    <state width="1803" height="363" key="GridCell.Tab.1.left" timestamp="1576063424965">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657339" />
-    <state width="1803" height="363" key="GridCell.Tab.1.right" timestamp="1575983657340">
+    <state width="1803" height="363" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576063424965" />
+    <state width="1803" height="363" key="GridCell.Tab.1.right" timestamp="1576063424966">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1575983657340" />
+    <state width="1803" height="363" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576063424966" />
+    <state x="592" y="274" key="Vcs.Push.Dialog.v2" timestamp="1576046349345">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="274" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1576046349345" />
     <state x="603" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1575856588347">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -162,5 +181,16 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="632" y="236" width="719" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1576045966005" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wpx/permutation/Solution.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
