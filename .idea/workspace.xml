@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d183fb-9f8a-41b8-b9b9-0f51a992446c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wpx/convertTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wpx/convertTree/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpx/convertTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/convertTree/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,23 +93,31 @@
       <option name="project" value="LOCAL" />
       <updated>1575983916511</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="开始写 将二叉搜索树转换成双链表">
+      <created>1575986751011</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575986751011</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成 根据指定的target，在二叉树上寻找和为target的路径" />
     <MESSAGE value="完成 复杂链表的复制功能，关键在于合并了并分开两个链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成 复杂链表的复制功能，关键在于合并了并分开两个链表" />
+    <MESSAGE value="开始写 将二叉搜索树转换成双链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="开始写 将二叉搜索树转换成双链表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1575531585992">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1575531585992" />
-    <state x="557" y="126" key="CommitChangelistDialog2" timestamp="1575983916405">
+    <state x="443" y="36" key="CommitChangelistDialog2" timestamp="1575986750916">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="557" y="126" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1575983916405" />
+    <state x="443" y="36" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1575986750916" />
     <state width="1803" height="363" key="GridCell.Tab.0.bottom" timestamp="1575983657288">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -150,16 +158,9 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="656" y="246" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1575543479290" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wpx/Main.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="632" y="236" width="719" height="678" key="search.everywhere.popup" timestamp="1576045966005">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="632" y="236" width="719" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1576045966005" />
   </component>
 </project>
