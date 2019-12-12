@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d183fb-9f8a-41b8-b9b9-0f51a992446c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/wpx/moreThanHalfNum/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wpx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/clonecomplivatednodelist/RandomListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/cloneComplicatedNodelist/RandomListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/clonecomplivatednodelist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/cloneComplicatedNodelist/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/findpathbytarget/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/findPathByTarget/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/findpathbytarget/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/findPathByTarget/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/hassubtree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/hasSubTree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/hassubtree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/hasSubTree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/ispoporder/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/isPopOrder/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/permutation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/permutation/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/printFromTopToBtm/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/printfromtoptobtm/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/printFromTopToBtm/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/printmatrix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/printMatrix/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/stackfindmin/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/stackFindMin/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpx/verifysquenceofBST/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpx/verifySequenceOfBST/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wangpinxue" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UXnkMZ093pKHgu78vxfBjt5dwC" />
@@ -133,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576063819393</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改包名为驼峰命名法，方便查阅题目">
+      <created>1576117013435</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576117013435</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,53 +142,54 @@
     <MESSAGE value="开始写 将二叉搜索树转换成双链表" />
     <MESSAGE value="完成 将二叉搜索树转换成双链表" />
     <MESSAGE value="完成 按字典全排列 字符串的字母" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成 按字典全排列 字符串的字母" />
+    <MESSAGE value="修改包名为驼峰命名法，方便查阅题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改包名为驼峰命名法，方便查阅题目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1575531585992">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="794" y="224" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1575531585992" />
-    <state x="760" y="145" key="CommitChangelistDialog2" timestamp="1576116973458">
+    <state x="760" y="145" key="CommitChangelistDialog2" timestamp="1576117013269">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="760" y="145" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1576116973458" />
-    <state width="1803" height="363" key="GridCell.Tab.0.bottom" timestamp="1576063846416">
+    <state x="760" y="145" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1576117013269" />
+    <state width="1803" height="363" key="GridCell.Tab.0.bottom" timestamp="1576118565765">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846416" />
-    <state width="1803" height="363" key="GridCell.Tab.0.center" timestamp="1576063846416">
+    <state width="1803" height="363" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565765" />
+    <state width="1803" height="363" key="GridCell.Tab.0.center" timestamp="1576118565764">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846416" />
-    <state width="1803" height="363" key="GridCell.Tab.0.left" timestamp="1576063846416">
+    <state width="1803" height="363" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565764" />
+    <state width="1803" height="363" key="GridCell.Tab.0.left" timestamp="1576118565764">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846416" />
-    <state width="1803" height="363" key="GridCell.Tab.0.right" timestamp="1576063846416">
+    <state width="1803" height="363" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565764" />
+    <state width="1803" height="363" key="GridCell.Tab.0.right" timestamp="1576118565765">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846416" />
-    <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1576063846418">
+    <state width="1803" height="363" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565765" />
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom" timestamp="1576118565766">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846418" />
-    <state width="1803" height="363" key="GridCell.Tab.1.center" timestamp="1576063846417">
+    <state width="1803" height="363" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565766" />
+    <state width="1803" height="363" key="GridCell.Tab.1.center" timestamp="1576118565765">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846417" />
-    <state width="1803" height="363" key="GridCell.Tab.1.left" timestamp="1576063846417">
+    <state width="1803" height="363" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565765" />
+    <state width="1803" height="363" key="GridCell.Tab.1.left" timestamp="1576118565765">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846417" />
-    <state width="1803" height="363" key="GridCell.Tab.1.right" timestamp="1576063846417">
+    <state width="1803" height="363" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565765" />
+    <state width="1803" height="363" key="GridCell.Tab.1.right" timestamp="1576118565766">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1803" height="363" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576063846417" />
-    <state x="592" y="274" key="Vcs.Push.Dialog.v2" timestamp="1576063824030">
+    <state width="1803" height="363" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576118565766" />
+    <state x="592" y="274" key="Vcs.Push.Dialog.v2" timestamp="1576117018894">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="592" y="274" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1576063824030" />
+    <state x="592" y="274" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1576117018894" />
     <state x="603" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1576116698883">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -201,5 +202,16 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="632" y="236" width="719" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1576045966005" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wpx/moreThanHalfNum/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
