@@ -72,3 +72,13 @@ public class Solution {
         }
     }
 }
+/*
+main()
+        Solution s = new Solution();
+        String str = "abca";
+        ArrayList<String> list = new ArrayList<>();
+        //list = s.Permutation(str);
+        char[] chars = str.toCharArray();
+        s.reverse(chars,2);
+        System.out.println(chars);
+ */

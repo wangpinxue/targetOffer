@@ -1,4 +1,4 @@
-package com.wpx.findpathbytarget;
+package com.wpx.findPathByTarget;
 
 import java.util.ArrayList;
 

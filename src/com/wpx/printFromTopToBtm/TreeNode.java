@@ -1,4 +1,4 @@
-package com.wpx.printfromtoptobtm;
+package com.wpx.printFromTopToBtm;
 
 public class TreeNode {
     int val = 0;

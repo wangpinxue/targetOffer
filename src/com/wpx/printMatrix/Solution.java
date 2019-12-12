@@ -1,4 +1,4 @@
-package com.wpx.printmatrix;
+package com.wpx.printMatrix;
 
 import java.util.ArrayList;
 

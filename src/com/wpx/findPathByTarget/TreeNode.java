@@ -1,4 +1,4 @@
-package com.wpx.findpathbytarget;
+package com.wpx.findPathByTarget;
 
 public class TreeNode {
     int val = 0;

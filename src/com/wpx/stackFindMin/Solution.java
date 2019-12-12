@@ -1,4 +1,4 @@
-package com.wpx.stackfindmin;
+package com.wpx.stackFindMin;
 
 import java.util.ArrayList;
 import java.util.Stack;

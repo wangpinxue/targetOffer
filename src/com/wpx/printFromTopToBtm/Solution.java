@@ -1,4 +1,4 @@
-package com.wpx.printfromtoptobtm;
+package com.wpx.printFromTopToBtm;
 
 import java.util.ArrayList;
 
