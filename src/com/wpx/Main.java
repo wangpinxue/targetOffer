@@ -1,7 +1,7 @@
 package com.wpx;
 
 
-import com.wpx.moreThanHalfNum.Solution;
+import com.wpx.findGreatestSumOfSubArray.Solution;
 
 public class Main {
 
